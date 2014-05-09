@@ -15,7 +15,7 @@
  * Plugin Name:       WPMU Network Ads
  * Plugin URI:        https://github.com/boriscougar/WPMU-network-custom-welcome.git
  * Description:       Plugin to display a custom welcome panel network wide
- * Version:           0.0.1
+ * Version:           0.0.2
  * Author:            Boris Aguilar
  * Author URI:        http://borisaguilar.com
  * Text Domain:       WPMU-network-custom-welcome

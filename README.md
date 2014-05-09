@@ -1,25 +1,18 @@
 WPMU-network-ads
 ================
 
-Wordpress Multisite Plugin, display ads code on every site on your network.
+Wordpress Multisite Plugin, display a custom welcome panel on everysite 
+in the network .
 
 ## Installation and Usage
 
-### V0.0.x:
+### V0.0.2:
 - Place all files on plugins directory
-- Go to Network Settings->Network Ads Settings
-- Select the code to display on every page and the websites that will 
-have an exception
-
-### V0.0.1: 
-- Place the file in mu-plugins directory of your wpmu. 
-- Edit adsense code accordingly. 
-- Enjoy :)
+- Go to Network Settings->Network Welcome Panel
+- Select the code to display on every page welcome panel of every site
 
 ## Future Features
 
-- Select the sites that don't have to display ads.
-- Network Admin interface to paste adsense code :)
 - Internationalization
 
 ##Author
@@ -32,6 +25,7 @@ GPLv2 License
 
 ## Changelog
 ### 0.0.1
-- Hook on wp_foot to inject adsense code manually added on plugin
-- Generate random class in HTML injected code to avoid not displaying 
-ads by hiding with css.
+- First commit yei
+
+### 0.0.2
+- This readme
